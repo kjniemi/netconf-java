@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+
+# things we might have around
+build
+javadoc
+.svn
+
